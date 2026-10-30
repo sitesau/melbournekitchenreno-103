@@ -1,0 +1,22 @@
+{
+  "wheel_id": 547,
+  "structure": "umbrella",
+  "slug": "melbournekitchenreno-103",
+  "project": "kitchen-renovations-melbourne-faq-bc314129dadcfb75f1bfe86909",
+  "parent_t1_ref": "melbournekitchenreno-151",
+  "node_role": "feeder",
+  "money_target": "melbournekitchenreno.com.au",
+  "primary_kw": "kitchen renovations melbourne faq",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-melbourne-faq-bc314129dadcfb75f1bfe86909/",
+  "tier": "T2",
+  "writeback_nonce": "684968dadc69bb18",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-local-options-compared-aa1ab15bc8/",
+      "anchor": "this kitchen renovations melbourne local options compared guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
